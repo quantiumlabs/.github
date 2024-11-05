@@ -1,6 +1,11 @@
-# Quantium Labs
+<p align="center">
+<img style="align:center;" src="https://github.com/quantiumlabs/.github/blob/main/assets/quantium.jpg" alt="Quantium logo" width="200" />
+</p>
 
-Bem-vindo ao repositório oficial da Quantium Labs! Somos uma empresa dedicada ao desenvolvimento de soluções tecnológicas inovadoras e personalizadas, englobando desde aplicações web até inteligência artificial e ciência de dados.
+<h1 align="center">Quantium Labs</h1>
+<h3 align="center">
+Bem-vindo ao repositório oficial da Quantium Labs! Somos uma empresa dedicada ao desenvolvimento de soluções tecnológicas inovadoras e personalizadas, englobando desde aplicações web até inteligência artificial e ciência de dados.</h3>
+<p align="center">
 
 ## Sobre Nós
 
