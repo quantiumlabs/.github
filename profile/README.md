@@ -34,4 +34,3 @@ Siga-nos no [Instagram](https://www.instagram.com/quantiumlabs/) para acompanhar
 
 Agradecemos por visitar nosso repositório e explorar nosso trabalho. Vamos juntos construir o futuro da tecnologia!
 
-Agora o README inclui o link direto para o Instagram da Quantium Labs.
