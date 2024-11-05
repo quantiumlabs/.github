@@ -1,5 +1,3 @@
-Aqui está o README atualizado com o link para o Instagram da Quantium Labs:
-
 # Quantium Labs
 
 Bem-vindo ao repositório oficial da Quantium Labs! Somos uma empresa dedicada ao desenvolvimento de soluções tecnológicas inovadoras e personalizadas, englobando desde aplicações web até inteligência artificial e ciência de dados.
